@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test-list</string>
+
+    <string-array name="list">
+        <item>HOME</item>
+        <item>つぶやき</item>
+        <item>記事</item>
+        <item>HOT</item>
+    </string-array>
+
+</resources>
